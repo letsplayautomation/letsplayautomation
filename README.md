@@ -68,26 +68,6 @@ I don’t just automate UI — I build **complete quality pipelines**.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsplayautomation&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letsplayautomation&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=letsplayautomation&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=letsplayautomation&theme=tokyonight&no-frame=true&row=1)
-
----
-
 ## 📬 Hire Me
 
 If you need a **reliable QA Automation Engineer**, contact me:
