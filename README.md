@@ -1,10 +1,21 @@
 # 👋 Hi, I’m **Priyam Shah**
-**Senior QA Automation Engineer | Playwright | API | CI/CD | AI Testing**
+**Full-Stack QA Automation Engineer | Playwright | Selenium | API | CI/CD | Mobile | AI Testing**
 
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green?style=for-the-badge&logo=playwright)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Framework-blue?style=for-the-badge&logo=typescript)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
 ![Docker](https://img.shields.io/badge/Docker-DevOps-blue?style=for-the-badge&logo=docker)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?style=for-the-badge&logo=selenium)
+![Cypress](https://img.shields.io/badge/Cypress-Testing-black?style=for-the-badge&logo=cypress)
+![Appium](https://img.shields.io/badge/Appium-Mobile%20Testing-purple?style=for-the-badge&logo=appium)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman)
+![Newman](https://img.shields.io/badge/Newman-API%20CI%2FCD-red?style=for-the-badge&logo=postman)
+![REST%20API](https://img.shields.io/badge/REST%20API-Testing-lightgrey?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-Automation-blue?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-Automation-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-Test%20Scripts-blue?style=for-the-badge&logo=python)
+![BDD](https://img.shields.io/badge/BDD-Cucumber-green?style=for-the-badge&logo=cucumber)
+
 
 [![Upwork](https://img.shields.io/badge/Hire%20Me-Upwork-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com)
 [![Fiverr](https://img.shields.io/badge/Hire%20Me-Fiverr-success?style=for-the-badge&logo=fiverr)](https://www.fiverr.com)
@@ -14,7 +25,10 @@
 
 ## 🧑‍💻 About Me
 
-I help startups, SaaS companies, and growing businesses **ship faster with fewer bugs** by building **reliable, scalable test automation frameworks** using **Playwright, TypeScript, API automation, and CI/CD pipelines**.
+I’m a **full-stack QA Automation Engineer** helping startups and SaaS teams 
+ship faster with fewer bugs by building **end-to-end automation across Web, API, Mobile, and CI/CD pipelines**.
+
+I don’t just automate UI — I build **complete quality pipelines**.
 
 ---
 
@@ -56,21 +70,21 @@ I help startups, SaaS companies, and growing businesses **ship faster with fewer
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=letsplayautomation&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsplayautomation&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letsplayautomation&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=letsplayautomation&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=letsplayautomation&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=letsplayautomation&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=letsplayautomation&theme=radical&no-frame=true&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=letsplayautomation&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
